@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>うみいぬのシャドウバースリプレイ</title>
+    <link>https://umiinu.github.io/</link>
+    <description>Recent content on うみいぬのシャドウバースリプレイ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 19 Jan 2020 13:39:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://umiinu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ウィッチ 究極錬成</title>
+      <link>https://umiinu.github.io/posts/202001/01%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81-%E7%A9%B6%E6%A5%B5%E9%8C%AC%E6%88%90/</link>
+      <pubDate>Sun, 19 Jan 2020 13:39:44 +0000</pubDate>
+      
+      <guid>https://umiinu.github.io/posts/202001/01%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81-%E7%A9%B6%E6%A5%B5%E9%8C%AC%E6%88%90/</guid>
+      <description>ログ ゴーレムウィッチ、究極錬成ウィッチ、究極ゴーレムウィッチなどと呼称されているようだ。 6ターン目で究極錬成からアルティメット・クレイゴーレ</description>
+    </item>
+    
+  </channel>
+</rss>
